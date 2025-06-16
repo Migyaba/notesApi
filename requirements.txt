@@ -1,0 +1,3 @@
+djando-cors-headers
+djangorestframework
+requests
